@@ -13,7 +13,7 @@ The dataset includes:
 The motivation for this analysis is to uncover trends and insights into the theft of controlled substances, a critical issue for businesses in the chemical and pharmaceutical industries. By understanding which states and business activities are more prone to theft and loss, businesses can implement targeted security measures, optimize inventory management, and reduce financial losses. This analysis aims to provide actionable insights to guide policy and decision-making processes within the industry.
 ## Code
 This repository contains 1 Malloy code file:
-theft_loss.malloynb, performs the analysis piece of the theft and loss of controlled substances data provided by the Data Liberation Project.
+- [`theft_loss.malloynb`](theft_loss.malloynb), performs the analysis piece of the theft and loss of controlled substances data provided by the Data Liberation Project.
 
 ## Summary of Findings
 Based on the analysis of the dataset, the following key findings were observed:
