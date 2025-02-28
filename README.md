@@ -40,3 +40,13 @@ Based on the analysis of the dataset, the following key findings were observed:
 - **Business activities with the highest chemical loss**: **Distributors** experienced the most significant quantity of chemicals lost, followed by **pharmacies** and **chemical exporters**.
 
 These insights suggest the need for targeted interventions in high-risk regions and business activities.# Data-Project
+## Licensing
+
+The files available directly from the [Data Liberation Project](https://www.data-liberation-project.org/datasets/dea-theft-and-loss-counts/) are considered public domain as they are government records. Other data files in this repository were created by **Thien Huong Tran** for the **MSBA-622-01 Data Science for Business (Spring 2025)** course at **Gonzaga University Graduate School of Business** and are shared under the Creative Commons [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). This license applies to the files contained in this repository, including the ones available on [GitHub](https://github.com/ttran1216/Data-Project).
+
+## Acknowledgments
+
+This analysis was inspired by **Professor Timothy Olsen** from the **MSBA622-Data Science for Business** course and **Gonzaga University's Graduate School of Business Administration**. The initial groundwork for this project was made possible by the **Data Liberation Project**, whose efforts in obtaining, extracting, and analyzing data to getting started. Their work is available on [GitHub](https://github.com/data-liberation-project/dea-theft-and-loss-counts).
+
+We also extend our gratitude to the **US Drug Enforcement Administration (DEA)** for making available the data related to theft and loss incidents of controlled substances. 
+
