@@ -23,7 +23,20 @@ Based on the analysis of the dataset, the following key findings were observed:
 <em>Figure: Screenshot of Quantity loss by state.</em></p>
 
 - **States with the highest chemical loss**: States like **Texas** and **Illinois** showed the highest total quantity of chemicals lost. These states may face regional challenges that should be addressed with improved loss prevention measures.
+
+<p>
+<img alt="Images/Total quantity loss by business activities." width="65%" 
+  src="https://github.com/ttran1216/Data-Project/blob/main/Images/Total%20quantity%20loss%20by%20business%20activities.png"><br>
+<em>Figure: Screenshot of Total quantity loss by business activities.</em></p>
+
 - **Business activities with the highest theft counts**: The **pharmacy** sector had the highest frequency of theft incidents, followed by **distributors** and **chemical manufacturers**.
+
+
+<p>
+<img alt="Images/Total theft by business activities." width="65%" 
+  src="https://github.com/ttran1216/Data-Project/blob/main/Images/Total%20theft%20by%20business%20activities.png"><br>
+<em>Figure: Screenshot of Total theft by business activites.</em></p>
+
 - **Business activities with the highest chemical loss**: **Distributors** experienced the most significant quantity of chemicals lost, followed by **pharmacies** and **chemical exporters**.
 
 These insights suggest the need for targeted interventions in high-risk regions and business activities.# Data-Project
