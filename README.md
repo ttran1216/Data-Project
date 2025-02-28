@@ -39,6 +39,14 @@ Based on the analysis of the dataset, the following key findings were observed:
 
 - **Business activities with the highest chemical loss**: **Distributors** experienced the most significant quantity of chemicals lost, followed by **pharmacies** and **chemical exporters**.
 
+<p>
+<img alt="Images/Total quantity loss by loss type." width="65%" 
+  src="https://github.com/ttran1216/Data-Project/blob/main/Images/Total%20quantity%20loss%20by%20loss%20type.png"><br>
+<em>Figure: Screenshot of Total quantity loss by loss type.</em></p>
+
+- **Chemical loss by type**: **Loss in transit** is the most significant contributor to chemical loss, followed by **break-ins** and **packaging discrepancies**. Other loss types, such as **employee theft** and **customer theft**, contribute significantly less to the total quantity of chemicals lost.
+
+
 These insights suggest the need for targeted interventions in high-risk regions and business activities.# Data-Project
 ## Licensing
 
