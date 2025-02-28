@@ -18,8 +18,10 @@ This repository contains 1 Malloy code file:
 ## Summary of Findings
 Based on the analysis of the dataset, the following key findings were observed:
 <p>
-<img alt="Images/Quantity loss by state." width="65%" src="[https://github.com/ttran1216/Data-Project/blob/main/Images/Quantity%20loss%20by%20state.png]"><br>
+<img alt="Images/Quantity loss by state." width="65%" 
+  src="https://github.com/ttran1216/Data-Project/blob/main/Images/Quantity%20loss%20by%20state.png"><br>
 <em>Figure: Screenshot of Quantity loss by state.</em></p>
+
 - **States with the highest chemical loss**: States like **Texas** and **Illinois** showed the highest total quantity of chemicals lost. These states may face regional challenges that should be addressed with improved loss prevention measures.
 - **Business activities with the highest theft counts**: The **pharmacy** sector had the highest frequency of theft incidents, followed by **distributors** and **chemical manufacturers**.
 - **Business activities with the highest chemical loss**: **Distributors** experienced the most significant quantity of chemicals lost, followed by **pharmacies** and **chemical exporters**.
