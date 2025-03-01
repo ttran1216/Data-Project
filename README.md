@@ -50,7 +50,7 @@ Based on the analysis of the dataset, the following key findings were observed:
 These insights suggest the need for targeted interventions in high-risk regions and business activities.# Data-Project
 ## Licensing
 
-The files available directly from the [Data Liberation Project](https://www.data-liberation-project.org/datasets/dea-theft-and-loss-counts/) are considered public domain as they are government records. Other data files in this repository were created by **Thien Huong Tran** for the **MSBA-622-01 Data Science for Business (Spring 2025)** course at **Gonzaga University Graduate School of Business** and are shared under the Creative Commons [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). This license applies to the files contained in this repository, including the ones available on [GitHub](https://github.com/ttran1216/Data-Project).
+The files available directly from the [Data Liberation Project](https://www.data-liberation-project.org/datasets/dea-theft-and-loss-counts/) are considered public domain as they are government records. Other data files in this repository were created by **Thien Huong Tran** for the **MSBA-622-01 Data Science for Business (Spring 2025)** course at **Gonzaga University Graduate School of Business** and are shared under the Apache License [APACHE LICENSE 2.0](https://www.apache.org/licenses/LICENSE-2.0). This license applies to the files contained in this repository, including the ones available on [GitHub](https://github.com/ttran1216/Data-Project).
 
 ## Acknowledgments
 
